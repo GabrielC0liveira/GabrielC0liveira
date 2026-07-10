@@ -1,85 +1,151 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=FF91A4&size=32&pause=1000&center=true&vCenter=true&width=700&lines=👋+Olá,+meu+nome+é+Alice+Ferreira;💻+Desenvolvedora+Fullstack+em+formação" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&height=60&lines=Olá,+eu+sou+Gabriel+Cavalcante;💻+Desenvolvedor+Full+Stack;📚+Técnico+em+Mecatrônica;🚀+Sempre+aprendendo+novas+tecnologias" />
 
-<br><br>
+### 💻 Desenvolvedor Full Stack • 🚀 Product Owner da KROOQ
 
-<a href="https://www.linkedin.com/in/alice-ferreira-galas-429948385/?skipRedirect=true" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/gabrielcavaloliveira/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/___.licezxs/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="mailto:gabrielcavalcantedeo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
-<hr style="height:3px; border:none; background:linear-gradient(90deg, #FF69B4, transparent);">
+---
 
-<h2 align="left">✨ Sobre mim</h2>
+# 👨🏻‍💻 Sobre mim
 
+Sou **Desenvolvedor Full Stack** e **Product Owner da plataforma KROOQ**, participando desde a concepção das funcionalidades até o desenvolvimento da aplicação.
 
-<div align="left">
-<table>
-<tr>
-<td width="60%">
+Tenho paixão por criar soluções que unem tecnologia, organização e experiência do usuário. Busco desenvolver aplicações modernas, escaláveis e que gerem impacto real.
 
-🚀 <b>Especialidade:</b> Desenvolvimento Fullstack com foco em Front-end.
+- 🚀 **Atuação:** Desenvolvedor Full Stack e Product Owner da KROOQ
+- 📚 **Formação:** Técnico em Mecatrônica
+- 🎓 **Graduando:** Ciências Contábeis
+- 💡 **Interesses:** Desenvolvimento Full Stack, Arquitetura de Software, Inteligência Artificial e Ciência de Dados
+- 🎯 **Objetivo:** Evoluir constantemente como desenvolvedor e contribuir para projetos inovadores.
 
-🧠 <b>Foco Atual:</b> Criação de aplicações modernas, funcionais e responsivas.  
+---
 
-🎯 <b>Interesses:</b> UI/UX, desenvolvimento web, interfaces interativas e sistemas completos.
+# 🚧 Projeto em Destaque
 
-📖 <b>Jornada:</b> Atualmente em formação em Programação (C# - Instituto PROA).
+## KROOQ
 
-⚙️ <b>Stack:</b> HTML, CSS, JavaScript, lógica de programação.
+Plataforma desenvolvida para conectar clientes e profissionais da construção civil, facilitando o gerenciamento de projetos, comunicação e acompanhamento de obras.
 
-🧩 <b>Projetos:</b> Desenvolvendo aplicações web e a plataforma KROOQ.
+### Minha atuação
 
-</td>
-<td width="40%">
+- 💻 Desenvolvimento Front-end
+- ⚙️ Desenvolvimento Back-end
+- 🚀 Product Owner (PO)
+- 📋 Levantamento de requisitos
+- 🧩 Planejamento de funcionalidades
+- 🤝 Organização e gestão do produto
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+---
 
+# 🛠️ Tecnologias
 
-</td>
-</tr>
-</table>
-</div>
-
-<hr style="height:3px; border:none; background:linear-gradient(90deg, #FF69B4, transparent);">
-
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+## 🌐 Front-end
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html" width="50px"/>
-<img src="https://skillicons.dev/icons?i=css" width="50px"/>
-<img src="https://skillicons.dev/icons?i=js" width="50px"/>
-<img src="https://skillicons.dev/icons?i=figma" width="50px"/>
-<img src="https://skillicons.dev/icons?i=git" width="50px"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="50px"/>
-<img src="https://skillicons.dev/icons?i=visualstudio" width="50px"/>
-<img src="https://skillicons.dev/icons?i=react" width="50px"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" width="50px"/>
-<img src="https://skillicons.dev/icons?i=cs" width="50px"/>
-<img src="https://skillicons.dev/icons?i=dotnet" width="50px"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="50px"/>
-<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="50px"/>
-
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
 
 </div>
-<br></br>
-<!-- Pacman -->
+
+---
+
+## ⚙️ Back-end
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs"/>
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+</div>
+
+---
+
+## 🗄️ Banco de Dados
+
+<div align="center">
+
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png"/>
+
+</div>
+
+---
+
+## 🛠️ Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=figma"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=visualstudio"/>
+
+</div>
+
+---
+
+# 📌 Atualmente
+
+- 🚧 Desenvolvendo novas funcionalidades para a **KROOQ**
+- 📚 Graduando em **Ciências Contábeis**
+- 💻 Aprofundando conhecimentos em **React**, **.NET** e **Node.js**
+- 🤖 Estudando **Inteligência Artificial** e **Ciência de Dados**
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 👾 Contribuições
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeSilvaVarjao/GuilhermeSilvaVarjao/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeSilvaVarjao/GuilhermeSilvaVarjao/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GuilhermeSilvaVarjao/GuilhermeSilvaVarjao/output/pacman-contribution-graph.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeSilvaVarjao/GuilhermeSilvaVarjao/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeSilvaVarjao/GuilhermeSilvaVarjao/output/pacman-contribution-graph.svg">
+<img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/GuilhermeSilvaVarjao/GuilhermeSilvaVarjao/output/pacman-contribution-graph.svg">
 </picture>
-<section align ="center">
 
-`💫 Developer | IA Enthusiast | Sempre aprendendo`
+</div>
 
+---
 
-</section>
+<div align="center">
+
+### 💙 Transformando ideias em soluções através da tecnologia.
+
+</div>
