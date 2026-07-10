@@ -108,17 +108,9 @@ Plataforma desenvolvida para conectar clientes e profissionais da construção c
 
 ---
 
-# 📊 Estatísticas do GitHub
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielC0liveira&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielC0liveira&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 Sequência de Contribuições
 
