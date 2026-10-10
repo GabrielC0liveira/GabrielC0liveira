@@ -29,8 +29,11 @@ Tenho paixão por criar soluções que unem tecnologia, organização e experiê
 - 🎯 **Objetivo:** Evoluir constantemente como desenvolvedor e contribuir para projetos inovadores.
 
 ---
+<div align="center">
 
 # 🚧 Projeto em Destaque
+
+</div>
 
 ## KROOQ
 
@@ -44,6 +47,14 @@ Plataforma desenvolvida para conectar clientes e profissionais da construção c
 - 📋 Levantamento de requisitos
 - 🧩 Planejamento de funcionalidades
 - 🤝 Organização e gestão do produto
+
+<div align="center">
+<a href="https://github.com/KROOQOFC" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_KROOQ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub KROOQ">
+</a>
+<a href="https://linktr.ee/Krooq" target="_blank">
+  <img src="https://img.shields.io/badge/Linktree_KROOQ-166534?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree KROOQ">
+</a>
 
 ---
 
@@ -97,6 +108,7 @@ Plataforma desenvolvida para conectar clientes e profissionais da construção c
 
 </div>
 
+</div>
 ---
 
 # 📌 Atualmente
