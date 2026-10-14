@@ -139,9 +139,9 @@ Plataforma desenvolvida para conectar clientes e profissionais da construção c
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeSilvaVarjao/GuilhermeSilvaVarjao/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeSilvaVarjao/GuilhermeSilvaVarjao/output/pacman-contribution-graph.svg">
-<img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/GuilhermeSilvaVarjao/GuilhermeSilvaVarjao/output/pacman-contribution-graph.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielC0liveira/GabrielC0liveira/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielC0liveira/GabrielC0liveira/output/pacman-contribution-graph.svg">
+<img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/GabrielC0liveira/GabrielC0liveira/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
